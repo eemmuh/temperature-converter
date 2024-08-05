@@ -1,6 +1,9 @@
 # temperature-converter
 
 
-Simple program that allows convert a inputted temperature in fahrenheit to celsius and vice versa.
+A simple program converts an inputted temperature in Fahrenheit to Celsius and vice versa.
 
-The program is case sensitive when inputting the unit of temperature. 
+
+
+The program executes within the console.
+It is case-sensitive when inputting the unit of temperature. 
